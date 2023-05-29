@@ -31,7 +31,7 @@ course previously in Berkeley — see [the about page](about#resources).
 
 ## When will it be?
 
-The Fall course will run from the week starting 8th August 2022, through to the end of September.
+The Fall course will run from the week starting 8th August 2023, through to the end of September.
 
 ## How much does it cost?
 
@@ -41,7 +41,7 @@ The course is completely free.
 
 We ask you to commit yourself to:
 
-* 8 weeks, from the 8th August through the end of September 2022.
+* 8 weeks, from the 8th August through the end of September 2023.
 * 1 hour per week of independent study, either reading or videos.
 * Two 2 hour live sessions on Zoom
 * 1-2 hours per week of homework / group work.
