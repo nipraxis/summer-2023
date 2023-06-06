@@ -48,6 +48,10 @@ We ask you to commit yourself to:
 
 That's 6-7 hours per week for 8 weeks.
 
+The last four weeks of homework and extra work are for a final group project.
+This is a group collaborative project working on a substantial and novel data
+analysis problem. We will give more details during the course.
+
 ## Prerequisites
 
 For the upcoming version of the Nipraxis course, we will assume that you *have
@@ -78,3 +82,12 @@ we will try and find you a group to work with.
 
 If you have any questions, or you have any problems forming a group, please
 contact one of the instructors by email - see the [staff page](staff).
+
+## Certificate and credit
+
+We will send you a certificate of completion, when you finish the course, and
+the assignments.  In particular, you will need to finish the final project, to
+get a certificate.
+
+If you want credit for this course with your institution, feel free to put your
+administration in touch with us — we will try to arrange that, if practical.
