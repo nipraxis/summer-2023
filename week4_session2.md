@@ -1,3 +1,5 @@
+# Github workflow; more on modules
+
 ## Recording
 
 [Week 4 session 2 recording](https://numfocus-org.zoom.us/rec/share/konU2x4UxxWKaIp5vSsf35xFPoEn0Pay8qhFSd-VbDMyE-z-jlVVrpv6oZhDzKw.uUltJwqOxFKlhFnP)
@@ -52,7 +54,3 @@ competition](https://www.youtube.com/watch?v=DdmyUZCl75s), and speculates this
 is because the best programmers think hard and for a long time about the right
 solution.  We recommend this course to you, of taking time to reflect on the
 right way to solve each problem.
-
-## That's it.
-
-That's it for this session.

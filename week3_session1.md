@@ -1,3 +1,5 @@
+# Command line, modules and functions; FMRI artifacts
+
 ## Recording
 
 [Week 3 session 1
@@ -96,7 +98,3 @@ Here we a list of videos on choosing text editors:
   you have the right editor, how long it takes to get going with Vim.
 
 Please take time for this task, and investigate your options.
-
-## That's it.
-
-That's it for this session.

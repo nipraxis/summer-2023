@@ -1,3 +1,5 @@
+# Whole image statistics; introduction to spatial processing
+
 ## Recording
 
 [Week 8 session
@@ -45,7 +47,3 @@ Also see: a [worked example of general linear
 * [Images and affines](https://textbook.nipraxis.org/images_and_affines)
 * [On gradient descent
   optimization](https://lisds.github.io/textbook/mean-slopes/optimization)
-
-## That's it.
-
-That's it for this session, and for the course.  Thanks for joining.

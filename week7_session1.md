@@ -1,3 +1,5 @@
+# Testing, regression
+
 ## Recording
 
 [Week 7 session
@@ -29,7 +31,3 @@ Make sure you have done the [basic regression
 exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/regression_estimation/regression_estimation.ipynb)
 and the [on estimation
 exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/on_estimation/on_estimation.ipynb)
-
-## That's it.
-
-That's it for this session.

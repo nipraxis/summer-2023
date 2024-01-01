@@ -1,3 +1,5 @@
+# Indexing and four dimensions
+
 ## Recording
 
 [Week 4 session 1 recording](https://numfocus-org.zoom.us/rec/share/9K9OpxVP_9bu4AWA5JUpz1QspJB4QSjlAdQnEdlssIP5SZzf4lPj5txao_073QGs.nM-1yQNsqJDcC-aB)
@@ -96,7 +98,3 @@ tutorial](https://www.markdowntutorial.com).
 
 * [Voxel time course
   exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/first_activation_exercise/first_activation.ipynb)
-
-## That's it.
-
-That's it for this session.

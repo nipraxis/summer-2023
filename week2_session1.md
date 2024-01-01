@@ -1,3 +1,5 @@
+# Arrays, images and plotting
+
 ## Recording
 
 [Week 2 session
@@ -37,7 +39,3 @@ If you do read it carefully, you will be investing in your own future
 productivity — Git version control is a powerful way to work more efficiently,
 especially in collaboration, and you need to understand the way that Git
 **thinks**, in order to use Git with fluency and efficiency.
-
-## That's it.
-
-That's it for this session.

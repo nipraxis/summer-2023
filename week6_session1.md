@@ -1,3 +1,5 @@
+# DVARs, testing, voxel statistics
+
 ## Recording
 
 [Week 6 session
@@ -133,7 +135,3 @@ exercise, in case you want to use it.
     We will review your analysis plan, discuss and then Approve it using the
     Github interface.
 * Start work on the project.
-
-## That's it.
-
-That's it for this session.

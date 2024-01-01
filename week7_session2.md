@@ -1,3 +1,5 @@
+# Statistics, continued
+
 ## Recording
 
 [Week 7 session
@@ -12,7 +14,3 @@
 * [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
 * [On estimation
   exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/on_estimation/on_estimation.ipynb)
-
-## That's it.
-
-That's it for this session.

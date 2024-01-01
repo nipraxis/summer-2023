@@ -1,3 +1,5 @@
+# Three dimensional arrays
+
 ## Recording
 
 [Week 2 session
@@ -18,8 +20,4 @@
 
 ## For homework
 
-See the page for session 1.
-
-## That's it.
-
-That's it for this session.
+See the [page for session 1](week2_session2.md)

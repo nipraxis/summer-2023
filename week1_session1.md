@@ -1,13 +1,9 @@
+# Introduction and tools
+
 The first session is the Monday session. The second session is the Thursday
 session.
 
 These are the notes for the Monday session.
-
-We will update them before and after the session, to please keep checking back
-for updates.  Just refresh the page in your browser to get updates.
-
-The Zoom link for all sessions is
-<https://numfocus-org.zoom.us/j/89458437731?pwd=eTF0V252bHlKOXBucnBUWlVBSm9uUT09>.
 
 ## Recording
 
@@ -24,9 +20,10 @@ The Zoom link for all sessions is
   computer](https://textbook.nipraxis.org/surviving_computers.html).  See video link below.
 - Machinery:
     - <https://textbook.nipraxis.org>
-    - <https://learn.nipraxis.org>
+    - `https://learn.nipraxis.org` (`learn.nipraxis.org` is now down after our
+      CZI grant funding expired).
     - `https://hub.nipraxis.org` and the Jupyter notebook (`hub.nipraxis.org`
-      is now down after the end of our CZI grant funding).
+      is now down — see above).
     - <https://github.com/nipraxis>
 - About the project.
 - We will gradually move away from notebooks.
@@ -109,7 +106,3 @@ Specifically, see:
 
 Make sure you can do the [arrays
 exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/arrays/arrays.ipynb)
-
-## The end
-
-That's it for this session.

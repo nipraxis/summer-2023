@@ -1,3 +1,5 @@
+# Voxel statistics and the HRF
+
 ## Recording
 
 [Week 6 session 2 recording](https://numfocus-org.zoom.us/rec/share/fDPg3YqA4dOdw-KavO4GfifC1H1XBknpfpZlB6f3lPvnR3HGqXXOzGXnmO6UYTHA.AKnm8n87aCnvMxr8)
@@ -15,7 +17,3 @@ A reminder about the project.
   function](https://textbook.nipraxis.org/convolution_background)
 * [HRF
   exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/make_hrf/make_hrf.ipynb)
-
-## That's it.
-
-That's it for this session.

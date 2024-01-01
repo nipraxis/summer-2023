@@ -1,3 +1,5 @@
+# The General Linear Model, multiple voxels
+
 ## Recording
 
 [Week 8 session
@@ -31,7 +33,3 @@ See also (for reference):
 ## Homework
 
 Work on your projects.
-
-## That's it.
-
-That's it for this session.

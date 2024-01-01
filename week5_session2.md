@@ -1,3 +1,5 @@
+# The project; modules and testing
+
 ## Recording
 
 [Week 5 session
@@ -46,7 +48,3 @@ output as you from the outlier detection script.
 * [validating data](https://textbook.nipraxis.org/validating_data)
 * [Module directories](https://textbook.nipraxis.org/module_directories.html)
 * [On testing](https://textbook.nipraxis.org/on_testing)
-
-## That's it.
-
-That's it for this session.

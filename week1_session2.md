@@ -1,11 +1,8 @@
+# Files, Numpy, and notebook exercises
+
 The *second session* is the Thursday session.
 
 These are the notes for the second session, for week 1.
-
-We will update them before and after the session, to please keep checking back for updates.  Just refresh the page in your browser to get updates.
-
-The Zoom link for all sessions is
-<https://numfocus-org.zoom.us/j/89458437731?pwd=eTF0V252bHlKOXBucnBUWlVBSm9uUT09>.
 
 ## Recording
 
@@ -29,10 +26,6 @@ The Zoom link for all sessions is
 
 ## For homework
 
-See the [Week 1 session 1 page](https://apps.learn.nipraxis.org/learning/course/course-v1:Nipraxis+NI1+2023_NI1/block-v1:Nipraxis+NI1+2023_NI1+type@sequential+block@a292732b08514bbaa13ca5f862182dcd/block-v1:Nipraxis+NI1+2023_NI1+type@vertical+block@73fc602fe7034cd1913edd805920cf7e)
+See the [Week 1 session 1 page](week1_session1.md)
 
 In general, look for the homework in the session 1 page for each week.
-
-## The end
-
-That's it for this session.

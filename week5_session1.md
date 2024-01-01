@@ -1,3 +1,5 @@
+# Github walkthrough; modules and testing
+
 ## Recording
 
 [Week5 session
@@ -135,7 +137,3 @@ Next work on the code to run the given commands and fix the errors.  See
 the instructions in the PR.
 
 Now push, and make a pull request.   Work together to find the best solution, review the pull request, and merge it.
-
-## That's it.
-
-That's it for this session.
