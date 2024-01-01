@@ -25,7 +25,8 @@ The Zoom link for all sessions is
 - Machinery:
     - <https://textbook.nipraxis.org>
     - <https://learn.nipraxis.org>
-    - <https://hub.nipraxis.org> and the Jupyter notebook.
+    - `https://hub.nipraxis.org` and the Jupyter notebook (`hub.nipraxis.org`
+      is now down after the end of our CZI grant funding).
     - <https://github.com/nipraxis>
 - About the project.
 - We will gradually move away from notebooks.
@@ -69,7 +70,9 @@ catch up, otherwise the rest of the course will be too fast.  Make sure, too, th
 #### Python
 
 If you are new to Python, do the [expressions and statements
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/exprs_states&subPath=exprs_states.ipynb),
+exercise](https://github.com/uob-cfd/exprs_states).
+
+* [Multi-model exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/multi_model/multi_model.ipynb)
 to get into the swing of things.
 
 Next, do these exercises from the [Google Python
@@ -77,16 +80,16 @@ class](https://developers.google.com/edu/python/).  There are links in the
 exercises to the sections to read to revise the ideas you need.
 
 - [string1
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_string1&subPath=string1.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/google_string1/string1.ipynb)
 - [list1
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_list1&subPath=list1.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/google_list1/list1.ipynb)
 
 We also suggest you try the slightly more advanced exercises:
 
 - [string2
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_string2&subPath=string2.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/google_string2/string2.ipynb)
 - [list2
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/google_list2&subPath=list2.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/google_list2/list2.ipynb)
 
 #### Numpy
 
@@ -105,7 +108,7 @@ Specifically, see:
   Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html).
 
 Make sure you can do the [arrays
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arrays&subPath=arrays.ipynb)
+exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/arrays/arrays.ipynb)
 
 ## The end
 

@@ -19,16 +19,16 @@ python3 -m pytest .
 
 * [On regression](https://textbook.nipraxis.org/on_regression)
 * [Basic regression
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/regression_estimation&subPath=regression_estimation.ipynb).
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/regression_estimation/regression_estimation.ipynb).
 
 ## Homework
 
 Work on the project!
 
 Make sure you have done the [basic regression
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/regression_estimation&subPath=regression_estimation.ipynb)
+exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/regression_estimation/regression_estimation.ipynb)
 and the [on estimation
-exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
+exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/on_estimation/on_estimation.ipynb)
 
 ## That's it.
 

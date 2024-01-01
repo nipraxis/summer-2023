@@ -14,7 +14,6 @@ The Zoom link for all sessions is
 
 ## Schedule and plan
 
-- Please log on to <https://hub.nipraxis.org>.
 - About homework:
   - It will appear at the bottom of the session 1 page for each week.
   - We will depend on you having done the homework for the _following week_.
@@ -26,7 +25,7 @@ The Zoom link for all sessions is
 - Skip through the [introduction to
   Numpy](https://textbook.nipraxis.org/numpy_intro.html)
 - The OKpy testing system and a [practice with arrays
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/array_practice&subPath=array_practice.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/array_practice/array_practice.ipynb)
 
 ## For homework
 

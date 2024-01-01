@@ -15,7 +15,7 @@
   dimensions](https://textbook.nipraxis.org/boolean_indexing_nd.html)
 * [Introduction to four dimensions](https://textbook.nipraxis.org/intro_to_4d)
 * [Four dimensions
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/four_dimensions/four_dimensions.ipynb)
 
 ## Homework
 
@@ -95,7 +95,7 @@ tutorial](https://www.markdowntutorial.com).
 ### Voxel exercise
 
 * [Voxel time course
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/first_activation_exercise/first_activation.ipynb)
 
 ## That's it.
 

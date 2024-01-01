@@ -12,7 +12,7 @@
 ### More background
 
 * Consider [the Dummy hypothesis
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/dummy_hypothesis&subPath=dummy_hypothesis.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/dummy_hypothesis/dummy_hypothesis.ipynb)
 * [Matrix rank](https://textbook.nipraxis.org/matrix_rank.html)
 
 Also see: a [worked example of general linear
@@ -25,10 +25,10 @@ Also see: a [worked example of general linear
 ### More pages, exercises
 
 * [Moving image
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/moving_images&subPath=moving_images.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/moving_images/moving_images.ipynb)
 * [Resampling with ndimage](https://textbook.nipraxis.org/resampling_with_ndimage)
 * [What extra
-  transform exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/what_extra_transform&subPath=what_extra_transform.ipynb)
+  transform exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/what_extra_transform/what_extra_transform.ipynb)
 * [Spatial normalization (in
   Dipy)](https://textbook.nipraxis.org/dipy_registration)
 * [Where should these brain areas

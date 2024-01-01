@@ -12,9 +12,9 @@
 * [Reshaping and three
   dimensions](https://textbook.nipraxis.org/reshape_and_3d.html)
 * [Anatomical
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/anatomical&subPath=anatomical.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/anatomical/anatomical.ipynb)
 * If you have time: [Arteries
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/arteries&subPath=arteries.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/arteries/arteries.ipynb)
 
 ## For homework
 

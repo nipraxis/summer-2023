@@ -7,12 +7,10 @@
 
 * [The General Linear Model - part 2](https://textbook.nipraxis.org/glm_intro#solving-the-model-with-matrix-algebra)
 * [On dummies
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_dummies&subPath=on_dummies.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/on_dummies/on_dummies.ipynb)
 * [Test one voxel](https://textbook.nipraxis.org/model_one_voxel.html)
 * [Multi-voxel estimation](https://textbook.nipraxis.org/multi_multiply.html)
-* [Multi-model exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/multi_model&subPath=multi_model.ipynb)
-
-https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/exercises/anatomical/anatomical.ipynb
+* [Multi-model exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/multi_model/multi_model.ipynb)
 
 See also (for reference):
 
@@ -28,7 +26,7 @@ See also (for reference):
 
 * [slice timing](https://textbook.nipraxis.org/slice_timing)
 * [slice timing
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/slice_timing&subPath=slice_timing.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/slice_timing/slice_timing.ipynb)
 
 ## Homework
 

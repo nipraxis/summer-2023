@@ -11,7 +11,7 @@
 * [Regression notation](https://textbook.nipraxis.org/regression_notation)
 * [The General Linear Model](https://textbook.nipraxis.org/glm_intro)
 * [On estimation
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/on_estimation&subPath=on_estimation.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/on_estimation/on_estimation.ipynb)
 
 ## That's it.
 

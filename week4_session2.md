@@ -12,7 +12,7 @@ Notes:
 
 * [on_modules](https://textbook.nipraxis.org/on_modules).
 * [Four dimensions
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/four_dimensions&subPath=four_dimensions.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/four_dimensions/four_dimensions.ipynb)
 
 ```
 git clone https://github.com/nipraxis/first_module
@@ -34,7 +34,7 @@ On debugging.
 * [Voxels and time](https://textbook.nipraxis.org/voxels_by_time)
 * [Reading text files](https://textbook.nipraxis.org/reading_text)
 * [Voxel time course
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/first_activation_exercise&subPath=first_activation.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/first_activation_exercise/first_activation.ipynb)
 
 ### On the benefits of searching for the right solution
 

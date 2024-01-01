@@ -9,12 +9,12 @@ A reminder about the project.
 ### Voxel statistics and the HRF
 
 * [Voxel correlation
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/voxel_correlation&subPath=voxel_correlation.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/voxel_correlation/voxel_correlation.ipynb)
 * [on convolution](https://textbook.nipraxis.org/on_convolution)
 * [The hemodynamic response
   function](https://textbook.nipraxis.org/convolution_background)
 * [HRF
-  exercise](https://hub.nipraxis.org/hub/user-redirect/git-pull?repo=https%3A//github.com/nipraxis/make_hrf&subPath=make_hrf.ipynb)
+  exercise](https://mybinder.org/v2/gh/nipraxis/summer-2023/main?urlpath=tree/make_hrf/make_hrf.ipynb)
 
 ## That's it.
 
