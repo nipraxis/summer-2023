@@ -1,0 +1,15 @@
+# Requirements for notebooks / Binderhub
+matplotlib
+pandas
+scipy
+nibabel
+nipype
+ipython
+jupytext
+okpy
+dipy>=1.7.0
+fury
+scikit-image
+sympy
+nipraxis
+pytest
