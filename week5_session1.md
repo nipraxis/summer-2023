@@ -1,4 +1,4 @@
-# Github walkthrough; modules and testing
+# Week 5 session 1: Github walkthrough; modules and testing
 
 ## Recording
 

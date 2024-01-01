@@ -1,4 +1,4 @@
-# Command line, modules and functions; FMRI artifacts
+# Week 3 session 1: Command line, modules and functions; FMRI artifacts
 
 ## Recording
 

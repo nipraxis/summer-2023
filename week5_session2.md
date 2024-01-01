@@ -1,4 +1,4 @@
-# The project; modules and testing
+# Week 5 session 2: The project; modules and testing
 
 ## Recording
 

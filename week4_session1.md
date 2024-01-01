@@ -1,4 +1,4 @@
-# Indexing and four dimensions
+# Week 4 session 1: Indexing and four dimensions
 
 ## Recording
 

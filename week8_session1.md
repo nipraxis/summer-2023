@@ -1,4 +1,4 @@
-# The General Linear Model, multiple voxels
+# Week 8 session 1: The General Linear Model, multiple voxels
 
 ## Recording
 

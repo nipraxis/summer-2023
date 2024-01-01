@@ -1,4 +1,4 @@
-# Modules, functions, Git, Github
+# Week 3 session 2: Modules, functions, Git, Github
 
 ## Recording
 

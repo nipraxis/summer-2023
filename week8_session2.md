@@ -1,4 +1,4 @@
-# Whole image statistics; introduction to spatial processing
+# Week 8 session 2: Whole image statistics; introduction to spatial processing
 
 ## Recording
 

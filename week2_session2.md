@@ -1,4 +1,4 @@
-# Three dimensional arrays
+# Week 2 session 2: Three dimensional arrays
 
 ## Recording
 

@@ -1,4 +1,4 @@
-# Statistics, continued
+# Week 7 session 2: Statistics, continued
 
 ## Recording
 

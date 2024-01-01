@@ -1,4 +1,4 @@
-# Github workflow; more on modules
+# Week 4 session 2: Github workflow; more on modules
 
 ## Recording
 

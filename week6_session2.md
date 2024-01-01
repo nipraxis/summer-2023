@@ -1,4 +1,4 @@
-# Voxel statistics and the HRF
+# Week 6 session 2: Voxel statistics and the HRF
 
 ## Recording
 

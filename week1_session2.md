@@ -1,4 +1,4 @@
-# Files, Numpy, and notebook exercises
+# Week 1 session 2: Files, Numpy, and notebook exercises
 
 The *second session* is the Thursday session.
 

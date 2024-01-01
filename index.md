@@ -20,8 +20,9 @@ seo:
 ## About the course
 
 See [the main course page](https://nipraxis.org) for an overall
-description of the course, including the requirements, and a rough
-schedule of classes.
+description of the course, including the requirements.
+
+See [the actual schedule](schedule.md) for a list of sessions and subjects.
 
 ## About this iteration
 
@@ -29,17 +30,18 @@ This is the first full version of the course.  We have already run a
 pilot version of the course, and we have taught versions of this
 course previously in Berkeley — see [the about page](about#resources).
 
-## When will it be?
+## When was it?
 
-The Summer course will run for 8 weeks from the week starting 31th July 2023, through to the week starting September 18th 2023.
+The Summer course ran for 8 weeks from the week starting 31th July 2023,
+through to the week starting September 18th 2023.
 
-## How much does it cost?
+## How much did it cost?
 
 The course is completely free.
 
-## How much time will it take?
+## How much time did it take?
 
-We ask you to commit yourself to:
+We asked you to commit yourself to:
 
 * 8 weeks, from the 31 July through 22 September 2023.
 * 1 hour per week of independent study, either reading or videos.
@@ -67,14 +69,14 @@ In particular, we will expect you to know about:
 You will find the course easier if you have done some brain imaging analysis
 before, but that is not a requirement.
 
-## How do I join?
+## How would I have joined?
 
-See below for more detail - but please apply to join by [filling in
-the form](https://forms.gle/fz2E6q6HvqnyCmSp9).
+See below for more detail - students applied to join by filling in the a Google
+form.
 
-We would like you to join in groups of around 3.  We believe this will help
-your learning and engagement with the course; you will learn a lot from each
-other, as well as from the course.
+We like you to join in groups of around 3.  We believe this will help your
+learning and engagement with the course; you will learn a lot from each other,
+as well as from the course.
 
 So, if you can, find your group before you fill in the form, and fill the form
 in, on behalf of your group.  If you can't find a group, don't worry too much,

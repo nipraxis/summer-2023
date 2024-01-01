@@ -1,4 +1,4 @@
-# DVARs, testing, voxel statistics
+# Week 6 session 1: DVARs, testing, voxel statistics
 
 ## Recording
 

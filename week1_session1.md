@@ -1,4 +1,4 @@
-# Introduction and tools
+# Week 1 session 1: Introduction and tools
 
 The first session is the Monday session. The second session is the Thursday
 session.

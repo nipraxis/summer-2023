@@ -1,4 +1,4 @@
-# Arrays, images and plotting
+# Week 2 session 1: Arrays, images and plotting
 
 ## Recording
 

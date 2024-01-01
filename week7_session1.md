@@ -1,4 +1,4 @@
-# Testing, regression
+# Week 7 session 1: Testing, regression
 
 ## Recording
 
